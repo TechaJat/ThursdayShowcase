@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ThursdayShowcase</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quotas">Quotas</string>
+    <string name="your_quotas">Your Quotas</string>
+    <string name="screening">Tap the start button to begin screening</string>
+    <string name="start_screening">start screening</string>
+    <string name="take_a_survey">Would you like to take a survey?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="next">next</string>
+    <string name="over_eighteen">Are you over 18?</string>
+    <string name="finished_screening">Screening finished, please proceed to Qualtrics</string>
+    <string name="ok">ok</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="show_results">show results</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#125688</color>
+    <color name="colorPrimaryDark">#125688</color>
+    <color name="colorPrimaryLight">#1773b5</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#0772c4</color>
+
+    <color name="field_heading">#FFFFFF</color>
+    <color name="id">#999999</color>
+    <color name="fields">#222222</color>
+
+    <color name="colorUnselectedBorder">#BBBBBB</color>
+    <color name="colorUnselected">#F8F8F8</color>
+
+    <color name="colorPressedBorder">#209af7</color>
+    <color name="colorPressed">#e5f4ff</color>
+
+    <color name="colorSelectedBorder">#054e87</color>
+    <color name="colorSelected">#0772c4</color>
+</resources>

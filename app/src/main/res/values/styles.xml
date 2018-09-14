@@ -1,0 +1,56 @@
+<resources>
+
+    <style name="MyMaterialTheme" parent="MyMaterialTheme.Base">
+
+    </style>
+
+    <style name="MyMaterialTheme.Base" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <!--<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        &lt;!&ndash; Customize your theme here. &ndash;&gt;
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>-->
+
+    <style name="QuestionBlock">
+        <item name="android:paddingTop">24dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:paddingLeft">24dp</item>
+        <item name="android:paddingRight">24dp</item>
+    </style>
+
+    <style name="QuestionLabel">
+        <item name="android:paddingBottom">24dp</item>
+        <item name="android:textSize">36dp</item>
+    </style>
+
+    <style name="QuestionOptionText">
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:textSize">24dp</item>
+    </style>
+
+    <style name="MyMaterialTheme.ButtonRounded">
+        <item name="android:gravity">center|start</item>
+        <item name="android:textSize">24sp</item>
+        <!--<item name="android:gravity">center_horizontal</item>-->
+        <item name="android:background">@drawable/rounded_button_background</item>
+        <item name="android:padding">24dp</item>
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:textColor">@color/rounded_button_text</item>
+        <item name="android:button">@android:color/transparent</item>
+    </style>
+
+    <style name="MyMaterialTheme.ProgressBarRounded" parent="android:Widget.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/rounded_progressbar</item>
+    </style>
+
+</resources>
+
